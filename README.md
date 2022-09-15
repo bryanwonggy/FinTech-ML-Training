@@ -13,3 +13,7 @@ Instructions:
 9. Fill up the Google form for this Github Practice: https://forms.gle/Fzu8EwSuqPxnZpGg7
 
 Self-Introduction Section:
+Name: Bryan Wong
+Course: Y2 Business Analytics with a second major in Statistics
+Fun Fact: I have a really crooked pinky finger... 
+ML Interest: NLP, ML applications in Finance 
